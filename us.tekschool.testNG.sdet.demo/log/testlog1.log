@@ -1,0 +1,6 @@
+2020-08-19 22:45:49,476 [main] INFO Loggerfile - browser opened successfully
+2020-08-19 22:45:50,255 [main] INFO Loggerfile - user clicked on sign in
+2020-08-19 22:45:50,340 [main] INFO Loggerfile - user entered email
+2020-08-19 22:45:50,412 [main] INFO Loggerfile - user entered password
+2020-08-19 22:45:51,190 [main] INFO Loggerfile - user clicked on sign in button
+2020-08-19 22:45:57,145 [main] INFO Loggerfile - browser closed successfully

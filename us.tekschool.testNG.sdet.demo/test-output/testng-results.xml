@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="17075" started-at="2020-08-20T02:45:40Z" finished-at="2020-08-20T02:45:57Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="17075" started-at="2020-08-20T02:45:40Z" finished-at="2020-08-20T02:45:57Z">
+      <class name="tests.HotelLogin">
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:tests.HotelLogin@5c5a1b69]" name="beforeMethod" is-config="true" duration-ms="9391" started-at="2020-08-20T02:45:40Z" finished-at="2020-08-20T02:45:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="loginToHotelPage()[pri:0, instance:tests.HotelLogin@5c5a1b69]" name="loginToHotelPage" duration-ms="7026" started-at="2020-08-20T02:45:49Z" finished-at="2020-08-20T02:45:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginToHotelPage -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:tests.HotelLogin@5c5a1b69]" name="afterMethod" is-config="true" duration-ms="640" started-at="2020-08-20T02:45:56Z" finished-at="2020-08-20T02:45:57Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+      </class> <!-- tests.HotelLogin -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
